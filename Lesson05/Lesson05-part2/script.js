@@ -1,4 +1,3 @@
-//default balance
 let balance = 0;
 let loop = true;
 
